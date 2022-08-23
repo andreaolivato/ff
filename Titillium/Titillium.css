@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Titillium';
+    src: url('TitilliumWeb.eot');
+    src: local('Titillium Web'), local('TitilliumWeb'),
+        url('TitilliumWeb.eot?#iefix') format('embedded-opentype'),
+        url('TitilliumWeb.woff2') format('woff2'),
+        url('TitilliumWeb.woff') format('woff'),
+        url('TitilliumWeb.svg#TitilliumWeb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
