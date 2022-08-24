@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FF Hekaya';
+    src: url('FFFHekaya.eot');
+    src: local('FF Hekaya'), local('FFFHekaya'),
+        url('FFFHekaya.eot?#iefix') format('embedded-opentype'),
+        url('FFFHekaya.woff2') format('woff2'),
+        url('FFFHekaya.woff') format('woff'),
+        url('FFFHekaya.svg#FFFHekaya') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
