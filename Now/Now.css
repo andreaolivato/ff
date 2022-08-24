@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Now';
+    src: url('Now.eot');
+    src: local('Now Regular'), local('Now'),
+        url('Now.eot?#iefix') format('embedded-opentype'),
+        url('Now.woff2') format('woff2'),
+        url('Now.woff') format('woff'),
+        url('Now.svg#Now') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
