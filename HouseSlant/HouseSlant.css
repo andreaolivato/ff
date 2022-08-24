@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'House Slant';
+    src: url('HouseSlant.eot');
+    src: local('House Slant'), local('HouseSlant'),
+        url('HouseSlant.eot?#iefix') format('embedded-opentype'),
+        url('HouseSlant.woff2') format('woff2'),
+        url('HouseSlant.woff') format('woff'),
+        url('HouseSlant.svg#HouseSlant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
