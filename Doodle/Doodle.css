@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Doodle';
+    src: url('Doodle.eot');
+    src: local('Doodle'),
+        url('Doodle.eot?#iefix') format('embedded-opentype'),
+        url('Doodle.woff2') format('woff2'),
+        url('Doodle.woff') format('woff'),
+        url('Doodle.svg#Doodle') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
