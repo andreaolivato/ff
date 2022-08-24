@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bathilda';
+    src: url('Bathilda.eot');
+    src: local('Bathilda'),
+        url('Bathilda.eot?#iefix') format('embedded-opentype'),
+        url('Bathilda.woff2') format('woff2'),
+        url('Bathilda.woff') format('woff'),
+        url('Bathilda.svg#Bathilda') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
