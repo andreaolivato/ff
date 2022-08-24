@@ -1,7 +1,7 @@
 @font-face {
-    font-family: '';
-    src: url('Roma Inline.eot');
-    src: local('ø'), local(''),
+    font-family: 'Roma Inline';
+    src: url('RomaInline.eot');
+    src: local('Roma Inline'), local('RomaInline'),
         url('RomaInline.eot?#iefix') format('embedded-opentype'),
         url('RomaInline.woff2') format('woff2'),
         url('RomaInline.woff') format('woff'),
