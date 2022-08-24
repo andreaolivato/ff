@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Pluma';
+    src: url('Pluma.eot');
+    src: local('Pluma Regular'), local('Pluma'),
+        url('Pluma.eot?#iefix') format('embedded-opentype'),
+        url('Pluma.woff2') format('woff2'),
+        url('Pluma.woff') format('woff'),
+        url('Pluma.svg#Pluma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
