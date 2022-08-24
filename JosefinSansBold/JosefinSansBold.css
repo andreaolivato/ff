@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Josefin Sans Bold';
+    src: url('JosefinSansBold.eot');
+    src: local('Josefin Sans Bold'), local('JosefinSansBold'),
+        url('JosefinSansBold.eot?#iefix') format('embedded-opentype'),
+        url('JosefinSansBold.woff2') format('woff2'),
+        url('JosefinSansBold.woff') format('woff'),
+        url('JosefinSansBold.svg#JosefinSansBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
