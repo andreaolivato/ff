@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ITC Avant Garde';
+    src: url('ITCAvantGarde.eot');
+    src: local('ITC Avant Garde'), local('ITCAvantGarde'),
+        url('ITCAvantGarde.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGarde.woff2') format('woff2'),
+        url('ITCAvantGarde.woff') format('woff'),
+        url('ITCAvantGarde.svg#ITCAvantGarde') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
