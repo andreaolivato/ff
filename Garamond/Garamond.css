@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Garamond';
+    src: url('Garamond.eot');
+    src: local('Garamond'),
+        url('Garamond.eot?#iefix') format('embedded-opentype'),
+        url('Garamond.woff2') format('woff2'),
+        url('Garamond.woff') format('woff'),
+        url('Garamond.svg#Garamond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
