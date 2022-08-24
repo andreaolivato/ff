@@ -1,0 +1,13 @@
+@font-face {
+    font-family: '';
+    src: url('Roma Inline.eot');
+    src: local('ø'), local(''),
+        url('RomaInline.eot?#iefix') format('embedded-opentype'),
+        url('RomaInline.woff2') format('woff2'),
+        url('RomaInline.woff') format('woff'),
+        url('RomaInline.svg#') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
