@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Styrene';
+    src: url('Styrene.eot');
+    src: local('Styrene'),
+        url('Styrene.eot?#iefix') format('embedded-opentype'),
+        url('Styrene.woff2') format('woff2'),
+        url('Styrene.woff') format('woff'),
+        url('Styrene.svg#Styrene') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
