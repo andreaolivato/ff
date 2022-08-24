@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'CorpoA';
+    src: url('CorpoA.eot');
+    src: local('CorpoA'), local('CorpoA'),
+        url('CorpoA.eot?#iefix') format('embedded-opentype'),
+        url('CorpoA.woff2') format('woff2'),
+        url('CorpoA.woff') format('woff'),
+        url('CorpoA.svg#CorpoA') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
