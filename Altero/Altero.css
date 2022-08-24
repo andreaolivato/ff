@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Altero';
+    src: url('Altero.eot');
+    src: local('Altero Regular'), local('Altero'),
+        url('Altero.eot?#iefix') format('embedded-opentype'),
+        url('Altero.woff2') format('woff2'),
+        url('Altero.woff') format('woff'),
+        url('Altero.svg#Altero') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
