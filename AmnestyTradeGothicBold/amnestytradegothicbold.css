@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AmnestyTradeGothicBold';
+    src: url('amnestytradegothicbold.eot');
+    src: url('amnestytradegothicbold.eot?#iefix') format('embedded-opentype'),
+         url('amnestytradegothicbold.woff2') format('woff2'),
+         url('amnestytradegothicbold.woff') format('woff'),
+         url('amnestytradegothicbold.svg#amnesty_trade_gothicBdCnno.20') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
