@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FreebooterScript';
+    src: url('FreebooterScript.eot');
+    src: url('FreebooterScript.eot?#iefix') format('embedded-opentype'),
+         url('FreebooterScript.woff2') format('woff2'),
+         url('FreebooterScript.woff') format('woff'),
+         url('FreebooterScript.svg#FreebooterScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

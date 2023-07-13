@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Ancona';
+    src: url('Ancona.eot');
+    src: url('Ancona.eot?#iefix') format('embedded-opentype'),
+         url('Ancona.woff2') format('woff2'),
+         url('Ancona.woff') format('woff'),
+         url('Ancona.svg#Ancona') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

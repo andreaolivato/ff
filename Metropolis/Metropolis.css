@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('Metropolis.eot');
+    src: url('Metropolis.eot?#iefix') format('embedded-opentype'),
+         url('Metropolis.woff2') format('woff2'),
+         url('Metropolis.woff') format('woff'),
+         url('Metropolis.svg#Metropolis') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

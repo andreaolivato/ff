@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PixelPirate';
+    src: url('PixelPirate.eot');
+    src: url('PixelPirate.eot?#iefix') format('embedded-opentype'),
+         url('PixelPirate.woff2') format('woff2'),
+         url('PixelPirate.woff') format('woff'),
+         url('PixelPirate.svg#PixelPirate') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
