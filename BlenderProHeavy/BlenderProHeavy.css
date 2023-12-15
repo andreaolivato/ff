@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Blender Pro Heavy';
+    src: url('BlenderProHeavy.eot');
+    src: local('Blender Pro Heavy'), local('Blender Pro Heavy'),
+        url('BlenderProHeavy.eot?#iefix') format('embedded-opentype'),
+        url('BlenderProHeavy.woff2') format('woff2'),
+        url('BlenderProHeavy.woff') format('woff'),
+        url('BlenderProHeavy.svg#blender_proheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
