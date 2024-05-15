@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MelindaEvania';
+    src: url('MelindaEvania.eot');
+    src: local('Melinda Evania'), local('MelindaEvania'),
+        url('MelindaEvania.eot?#iefix') format('embedded-opentype'),
+        url('MelindaEvania.woff2') format('woff2'),
+        url('MelindaEvania.woff') format('woff'),
+        url('MelindaEvania.ttf') format('truetype'),
+        url('MelindaEvania.svg#MelindaEvania') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
