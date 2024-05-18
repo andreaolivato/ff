@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'QlassikMedium';
+    src: url('QlassikMedium.eot');
+    src: local('Qlassik Medium'), local('QlassikMedium'),
+        url('QlassikMedium.eot?#iefix') format('embedded-opentype'),
+        url('QlassikMedium.woff2') format('woff2'),
+        url('QlassikMedium.woff') format('woff'),
+        url('QlassikMedium.ttf') format('truetype'),
+        url('QlassikMedium.svg#QlassikMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
