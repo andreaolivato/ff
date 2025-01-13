@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Duma';
+    src: url('Duma.eot');
+    src: url('Duma.eot?#iefix') format('embedded-opentype'),
+         url('Duma.woff2') format('woff2'),
+         url('Duma.woff') format('woff'),
+         url('Duma.svg#Duma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
