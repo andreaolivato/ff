@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PaseoSemiBold';
+    src: url('PaseoSemiBold.eot');
+    src: local('Paseo SemiBold'), local('PaseoSemiBold'),
+        url('PaseoSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('PaseoSemiBold.woff2') format('woff2'),
+        url('PaseoSemiBold.woff') format('woff'),
+        url('PaseoSemiBold.ttf') format('truetype'),
+        url('PaseoSemiBold.svg#PaseoSemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

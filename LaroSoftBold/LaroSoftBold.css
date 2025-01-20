@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'LaroSoftBold';
+    src: url('LaroSoftBold.eot');
+    src: url('LaroSoftBold.eot?#iefix') format('embedded-opentype'),
+        url('LaroSoftBold.woff2') format('woff2'),
+        url('LaroSoftBold.woff') format('woff'),
+        url('LaroSoftBold.ttf') format('truetype'),
+        url('LaroSoftBold.svg#LaroSoftBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

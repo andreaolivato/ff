@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LaroSoftSemiBoldItalic';
+    src: url('LaroSoftSemiBoldItalic.eot');
+    src: url('LaroSoftSemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('LaroSoftSemiBoldItalic.woff2') format('woff2'),
+        url('LaroSoftSemiBoldItalic.woff') format('woff'),
+        url('LaroSoftSemiBoldItalic.ttf') format('truetype'),
+        url('LaroSoftSemiBoldItalic.svg#LaroSoftSemiBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

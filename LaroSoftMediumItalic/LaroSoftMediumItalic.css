@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LaroSoftMediumItalic';
+    src: url('LaroSoftMediumItalic.eot');
+    src: url('LaroSoftMediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('LaroSoftMediumItalic.woff2') format('woff2'),
+        url('LaroSoftMediumItalic.woff') format('woff'),
+        url('LaroSoftMediumItalic.ttf') format('truetype'),
+        url('LaroSoftMediumItalic.svg#LaroSoftMediumItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LaroSoftRegular';
+    src: url('LaroSoftRegular.eot');
+    src: url('LaroSoftRegular.eot?#iefix') format('embedded-opentype'),
+        url('LaroSoftRegular.woff2') format('woff2'),
+        url('LaroSoftRegular.woff') format('woff'),
+        url('LaroSoftRegular.ttf') format('truetype'),
+        url('LaroSoftRegular.svg#LaroSoftRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

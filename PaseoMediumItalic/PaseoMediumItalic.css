@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PaseoMediumItalic';
+    src: url('PaseoMediumItalic.eot');
+    src: local('Paseo Medium Italic'), local('PaseoMediumItalic'),
+        url('PaseoMediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('PaseoMediumItalic.woff2') format('woff2'),
+        url('PaseoMediumItalic.woff') format('woff'),
+        url('PaseoMediumItalic.ttf') format('truetype'),
+        url('PaseoMediumItalic.svg#PaseoMediumItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

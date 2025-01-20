@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PaseoRegular';
+    src: url('PaseoRegular.eot');
+    src: local('Paseo Regular'), local('PaseoRegular'),
+        url('PaseoRegular.eot?#iefix') format('embedded-opentype'),
+        url('PaseoRegular.woff2') format('woff2'),
+        url('PaseoRegular.woff') format('woff'),
+        url('PaseoRegular.ttf') format('truetype'),
+        url('PaseoRegular.svg#PaseoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
