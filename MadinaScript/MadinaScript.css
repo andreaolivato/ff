@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MadinaScript';
+    src: url('MadinaScript.eot');
+    src: url('MadinaScript.eot?#iefix') format('embedded-opentype'),
+        url('MadinaScript.woff2') format('woff2'),
+        url('MadinaScript.woff') format('woff'),
+        url('MadinaScript.ttf') format('truetype'),
+        url('MadinaScript.svg#MadinaScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
