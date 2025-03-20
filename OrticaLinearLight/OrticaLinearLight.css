@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'OrticaLinearLight';
+    src: url('OrticaLinearLight.eot');
+    src: local('Ortica Linear Light'), local('OrticaLinearLight'),
+        url('OrticaLinearLight.eot?#iefix') format('embedded-opentype'),
+        url('OrticaLinearLight.woff2') format('woff2'),
+        url('OrticaLinearLight.woff') format('woff'),
+        url('OrticaLinearLight.ttf') format('truetype'),
+        url('OrticaLinearLight.svg#OrticaLinearLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
