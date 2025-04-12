@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'LTMuseum';
+    src: url('LTMuseum.eot');
+    src: local('LT Museum Medium'), local('LTMuseum'),
+        url('LTMuseum.eot?#iefix') format('embedded-opentype'),
+        url('LTMuseum.woff2') format('woff2'),
+        url('LTMuseum.woff') format('woff'),
+        url('LTMuseum.ttf') format('truetype'),
+        url('LTMuseum.svg#LTMuseum') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
