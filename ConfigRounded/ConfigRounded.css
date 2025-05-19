@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ConfigRounded';
+    src: url('ConfigRounded.eot');
+    src: url('ConfigRounded.eot?#iefix') format('embedded-opentype'),
+         url('ConfigRounded.woff2') format('woff2'),
+         url('ConfigRounded.woff') format('woff'),
+         url('ConfigRounded.ttf') format('truetype'),
+         url('ConfigRounded.svg#ConfigRounded') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
