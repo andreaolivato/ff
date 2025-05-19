@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ConfigRoundedBold';
+    src: url('ConfigRoundedBold.eot');
+    src: url('ConfigRoundedBold.eot?#iefix') format('embedded-opentype'),
+         url('ConfigRoundedBold.woff2') format('woff2'),
+         url('ConfigRoundedBold.woff') format('woff'),
+         url('ConfigRoundedBold.ttf') format('truetype'),
+         url('ConfigRoundedBold.svg#ConfigRoundedBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
