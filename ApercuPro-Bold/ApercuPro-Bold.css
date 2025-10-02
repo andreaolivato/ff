@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ApercuPro-Bold';
+    src: url('ApercuPro-Bold.eot');
+    src: local('Apercu Pro Bold'), local('ApercuPro-Bold'),
+        url('ApercuPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ApercuPro-Bold.woff2') format('woff2'),
+        url('ApercuPro-Bold.woff') format('woff'),
+        url('ApercuPro-Bold.ttf') format('truetype'),
+        url('ApercuPro-Bold.svg#ApercuPro-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

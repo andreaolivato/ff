@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ApercuPro-MediumItalic';
+    src: url('ApercuPro-MediumItalic.eot');
+    src: local('Apercu Pro Medium Italic'), local('ApercuPro-MediumItalic'),
+        url('ApercuPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('ApercuPro-MediumItalic.woff2') format('woff2'),
+        url('ApercuPro-MediumItalic.woff') format('woff'),
+        url('ApercuPro-MediumItalic.ttf') format('truetype'),
+        url('ApercuPro-MediumItalic.svg#ApercuPro-MediumItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
