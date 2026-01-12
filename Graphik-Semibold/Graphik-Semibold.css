@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'Graphik-Semibold';
+    src: url('Graphik-Semibold.eot');
+    src: local('Graphik Semibold'), local('Graphik-Semibold'),
+        url('Graphik-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Graphik-Semibold.woff2') format('woff2'),
+        url('Graphik-Semibold.woff') format('woff'),
+        url('Graphik-Semibold.ttf') format('truetype'),
+        url('Graphik-Semibold.svg#Graphik-Semibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Graphik-Black';
+    src: url('Graphik-Black.eot');
+    src: local('Graphik Black'), local('Graphik-Black'),
+        url('Graphik-Black.eot?#iefix') format('embedded-opentype'),
+        url('Graphik-Black.woff2') format('woff2'),
+        url('Graphik-Black.woff') format('woff'),
+        url('Graphik-Black.ttf') format('truetype'),
+        url('Graphik-Black.svg#Graphik-Black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
