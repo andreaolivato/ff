@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'EdgecuttingLiteSharp';
+    src: url('EdgecuttingLiteSharp.eot');
+    src: local('Edgecutting Lite Sharp'), local('EdgecuttingLiteSharp'),
+        url('EdgecuttingLiteSharp.eot?#iefix') format('embedded-opentype'),
+        url('EdgecuttingLiteSharp.woff2') format('woff2'),
+        url('EdgecuttingLiteSharp.woff') format('woff'),
+        url('EdgecuttingLiteSharp.ttf') format('truetype'),
+        url('EdgecuttingLiteSharp.svg#EdgecuttingLiteSharp') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

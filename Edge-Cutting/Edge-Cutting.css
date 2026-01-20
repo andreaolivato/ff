@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Edge-Cutting';
+    src: url('Edge-Cutting.eot');
+    src: local('Edge Cutting Regular'), local('Edge-Cutting'),
+        url('Edge-Cutting.eot?#iefix') format('embedded-opentype'),
+        url('Edge-Cutting.woff2') format('woff2'),
+        url('Edge-Cutting.woff') format('woff'),
+        url('Edge-Cutting.ttf') format('truetype'),
+        url('Edge-Cutting.svg#Edge-Cutting') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

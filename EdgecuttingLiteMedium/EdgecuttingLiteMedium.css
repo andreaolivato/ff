@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'EdgecuttingLiteMedium';
+    src: url('EdgecuttingLiteMedium.eot');
+    src: local('Edgecutting Lite Medium'), local('EdgecuttingLiteMedium'),
+        url('EdgecuttingLiteMedium.eot?#iefix') format('embedded-opentype'),
+        url('EdgecuttingLiteMedium.woff2') format('woff2'),
+        url('EdgecuttingLiteMedium.woff') format('woff'),
+        url('EdgecuttingLiteMedium.ttf') format('truetype'),
+        url('EdgecuttingLiteMedium.svg#EdgecuttingLiteMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
