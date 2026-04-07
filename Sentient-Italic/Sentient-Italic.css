@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sentient-Italic';
+    src: url('Sentient-Italic.eot');
+    src: local('Sentient Italic'), local('Sentient-Italic'),
+        url('Sentient-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Sentient-Italic.woff2') format('woff2'),
+        url('Sentient-Italic.woff') format('woff'),
+        url('Sentient-Italic.ttf') format('truetype'),
+        url('Sentient-Italic.svg#Sentient-Italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
