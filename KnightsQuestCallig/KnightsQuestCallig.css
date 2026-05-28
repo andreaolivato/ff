@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'KnightsQuestCallig';
+    src: url('KnightsQuestCallig.eot');
+    src: local('Knights Quest Callig'), local('KnightsQuestCallig'),
+        url('KnightsQuestCallig.eot?#iefix') format('embedded-opentype'),
+        url('KnightsQuestCallig.woff2') format('woff2'),
+        url('KnightsQuestCallig.woff') format('woff'),
+        url('KnightsQuestCallig.ttf') format('truetype'),
+        url('KnightsQuestCallig.svg#KnightsQuestCallig') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

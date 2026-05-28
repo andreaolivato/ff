@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'KnightsQuest';
+    src: url('KnightsQuest.eot');
+    src: local('Knights Quest'), local('KnightsQuest'),
+        url('KnightsQuest.eot?#iefix') format('embedded-opentype'),
+        url('KnightsQuest.woff2') format('woff2'),
+        url('KnightsQuest.woff') format('woff'),
+        url('KnightsQuest.ttf') format('truetype'),
+        url('KnightsQuest.svg#KnightsQuest') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
